@@ -3,7 +3,7 @@ name = "kokos_activator_api"
 
 [tool.poetry]
 name = "kokos_activator_api"
-version = "1.0.0"
+version = "1.0.1"
 description = ""
 readme = "README.md"
 authors = []
